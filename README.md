@@ -1,2 +1,2 @@
 # gitflow-test
-new feature1
+new feature2
