@@ -1,2 +1,2 @@
 # gitflow-test
-new feature2 9.1.1
+new feature2 9.2.0
